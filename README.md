@@ -1,1 +1,1 @@
-# predicting_authorizations
+Included is all of the necessary code and data needed to run the script appropriately.
